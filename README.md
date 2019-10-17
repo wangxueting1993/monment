@@ -67,15 +67,15 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### 服务器地址及文件目录
 
-服务器 IP: 120.27.130.7
+服务器 IP: xxx.xx.xxx.x
 服务器域名:
-服务器静态文件目录: `/data/www/lighttpd/geelyjkd/public/jkd`
-服务器 php 模板文件目录: `/data/www/lighttpd/geelyjkd/resources/views`
+服务器静态文件目录: `/`
+服务器 php 模板文件目录: `/`
 
 ### 服务端 git 地址
 
 ```bash
-> git@192.168.11.206:xiangmu/geelyjkd.git
+> git address
 ```
 
 ### 框架、工具库文档链接
